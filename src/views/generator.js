@@ -30,7 +30,7 @@ const App = () => {
         value={address}
         onChange={e => setAddress(e.target.value)}
       />
-      <Link to={address}>Generate </Link>
+      <Link to={'/AccountDataGenerator/' + address}>Generate </Link>
     </div>
   );
 };

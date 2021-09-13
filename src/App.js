@@ -5,10 +5,10 @@ import Accounts from "./views/accounts"
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
-        <Route exact path="/AccountDataGenerator/" component={Generator} />
-        <Route path="/AccountDataGenerator/:address" component={Accounts} />
+        <Route exact path={process.env.PUBLIC_URL + '/'} component={Generator} />
+        <Route path={process.env.PUBLIC_URL + '/:address'} component={Accounts} />
       </Switch>
     </BrowserRouter>
   );
