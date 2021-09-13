@@ -7,8 +7,8 @@ const App = () => {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path="/" component={Generator} />
-        <Route path="/:address" component={Accounts} />
+        <Route exact path="/AccountDataGenerator/" component={Generator} />
+        <Route path="/AccountDataGenerator/:address" component={Accounts} />
       </Switch>
     </BrowserRouter>
   );
