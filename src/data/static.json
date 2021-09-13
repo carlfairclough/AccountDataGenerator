@@ -1,0 +1,22 @@
+[{ 
+  "title": "Wallet",
+  "valueSummarySubheader": "Total value",
+  "fiatPreference": "USD",
+  "networkDefault": "All Networks",
+  "links": {
+    "addressBook": "Saved addresses",
+    "swap": "Swap",
+    "send": "Send",
+    "SwapSend": "Swap & Send",
+    "onramp": "Buy / Sell"
+  },
+  "preferences": {
+    "fiat": "USD",
+    "accountName": "hellowooorld.eth",
+    "address": "0x8920...43e7"
+  },
+  "accounts": [
+    "test1",
+    "test2"
+  ]
+}]

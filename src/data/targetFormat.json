@@ -1,0 +1,81 @@
+
+{
+  static: {
+    title: "Wallet",
+    valueSummarySubheader: "Total value",
+    assetsHeader: "Assets",
+    positionsHeader: "Positions",
+    nftHeader: "Collectibles",
+    activityHeader: "Activity",
+    savedAddresses: [
+      link: {
+        title: "Saved addresses"
+        addresses: [{
+          address: "0x1234",
+          name: "test"
+          emoji: "😅"
+        },{
+          address: "0x1234",
+          name: "test"
+          emoji: "😅"
+        },{
+          address: "0x1234",
+          name: "test"
+          emoji: "😅"
+        },{
+          address: "0x1234",
+          name: "test"
+          emoji: "😅"
+        },{
+          address: "0x1234",
+          name: "test"
+          emoji: "😅"
+        },{
+          address: "0x1234",
+          name: "test"
+          emoji: "😅"
+        }]
+      }
+    ]
+    mainActions: [
+      {
+        title: "Swap",
+        icon: "Swap"
+      }, {
+        title: "Send",
+        icon: "Send"
+      }, {
+        title: "Buy / Sell",
+        icon: "Coin"
+      }
+    ],
+    collectible: {
+      title: "History",
+      action: {
+        title: "Send",
+        icon: "Send",
+      },
+      history: {
+        title: "History",
+        personalFilter: "My history"
+      }
+    },
+    address: {
+      unsaved: {
+        action: {
+          title: "Save Address"
+        }
+      }
+    },
+    token: {
+      action: {
+        title: "Swap",
+        icon: "Swap",
+      }
+    }
+  }, 
+  dynamic: {
+
+  }
+
+}

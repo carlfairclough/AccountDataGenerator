@@ -1,0 +1,86 @@
+[
+  {
+    "symbol": "3CRV",
+    "balance": 2771.8513009489097,
+    "usd": 2827.2883269678878,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x6c3f90f043a72fa612cbac8115ee7e52bde6e490.png"
+  },
+  {
+    "symbol": "ADEL",
+    "balance": 5910.84,
+    "usd": 298.10730456,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x94d863173ee77439e4292284ff13fad54b3ba182.png"
+  },
+  {
+    "symbol": "BUSD",
+    "balance": 0.4399229580000261,
+    "usd": 0.4399229580000261,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x4fabb145d64652a948d72533023f6e7a623c7c53.png"
+  },
+  {
+    "symbol": "ETH",
+    "balance": 300.126360809177,
+    "usd": 971443.002139928,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x0000000000000000000000000000000000000000.png"
+  },
+  {
+    "symbol": "eXRD",
+    "balance": 1,
+    "usd": 0.09006,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x6468e79a80c0eab0f9a2b574c8d5bc374af59414.png"
+  },
+  {
+    "symbol": "LDO",
+    "balance": 300221.39510853373,
+    "usd": 1543137.9708578633,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png"
+  },
+  {
+    "symbol": "LINKUSD",
+    "balance": 272.63989331003586,
+    "usd": 286.27188797553765,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x0e2ec54fc0b509f445631bf4b91ab8168230c752.png"
+  },
+  {
+    "symbol": "MIST",
+    "balance": 4000.9305916079707,
+    "usd": 301190.05493624805,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab.png"
+  },
+  {
+    "symbol": "NXM",
+    "balance": 0.6836451231815841,
+    "usd": 84.79934107944369,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b.png"
+  },
+  {
+    "symbol": "stkAAVE",
+    "balance": 2.650784147409985,
+    "usd": 830.6232125909188,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x4da27a545c0c5b758a6ba100e3a049001de870f5.png"
+  },
+  {
+    "symbol": "SUSHI",
+    "balance": 19432.848321333953,
+    "usd": 201129.9801258064,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png"
+  },
+  {
+    "symbol": "USDC",
+    "balance": 739783.16664,
+    "usd": 739783.16664,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png"
+  },
+  {
+    "symbol": "USDT",
+    "balance": 587431.848723,
+    "usd": 587431.848723,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xdac17f958d2ee523a2206206994597c13d831ec7.png"
+  },
+  {
+    "symbol": "WETH",
+    "balance": 0.19724978627340653,
+    "usd": 637.4126843425132,
+    "img": "https://storage.googleapis.com/zapper-fi-assets/tokens/ethereum/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+  }
+]
